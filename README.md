@@ -58,7 +58,7 @@ You will be prompted to save the file , 3 General locations to be prompted (case
 ▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀▄▄▄▄▀▀▀▄▄▄▄▀▀▄▄▄▀▄▄▄▀▄▄▄▀▀▀
 ██████████████████████████████████████████
 
-Type '-q' to exit program.  By:nomespaladin
+Type '-q' to exit program.  By:NomesPaladin
 
 Enter Domain: example.com
 Running|[15:32:47]|[02/12/2024]|
